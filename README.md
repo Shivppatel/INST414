@@ -1,2 +1,2 @@
 # INST414
-Class repo for INST414 Data Science Techniques
+Class work repository for INST414 Data Science Techniques
